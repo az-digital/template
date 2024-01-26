@@ -32,24 +32,3 @@ For this reason, enabling Multi-Factor Authentication (MFA) for all your GitHub 
 >> To require MFA,  select Your Profile Photo → Your Organizations→ Settings → Security→Authentication Security. You can see all the details here.
 
 - - - -
-
-## Do not add GitHub applications unless they have been approved/tested by the repo admin team (Access Control Team) first
-> Note: 
->> Before adding a GitHub application, it is important to review the application's credibility.
->> Audit the permissions that it requires and make sure that it is not granted more than necessary.
->> Check for security issues and negative comments before authoring a GitHub application to your GitHub organization.
-
-- - - -
-
-## Disable public repository creation
-Ensure repositories remain private by disabling public access entirely. By disabling public access, you can help prevent the accidental creation of publicly accessible repositories, which can result in the exposure of sensitive information. 
-
-- - - -
-
-## Configure IP whitelisting (only available on GitHub Enterprise) 
-
-- - - -
-
-## Scan Github repositories regularly to detect and address vulnerabilities as soon as possible
-> Note:
->> Automating code scanning and integrating it into your development process can help catch vulnerabilities early on and prevent security issues from becoming more serious down the line.
