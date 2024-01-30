@@ -27,8 +27,8 @@ az-digital-security@list.arizona.edu
 ## Always use MFA
 Strong passwords aren’t secure enough anymore. Attackers have developed several tested methods of stealing credentials, giving them unauthorized access to private accounts.
 
-For this reason, enabling Multi-Factor Authentication (MFA) for all your GitHub is critical.
-> MFA should be enforced for every GitHub user in your organization.
->> To require MFA,  select Your Profile Photo → Your Organizations→ Settings → Security→Authentication Security. You can see all the details here.
+For this reason, requiring Multi-Factor Authentication (MFA) for all your GitHub organizations is critical.
+> MFA should be enforced for every GitHub user in your organizations.
+>> To require MFA, select Your Profile Photo → Your Organizations → Settings → Security → Authentication Security. For more details, see the [GitHub documentation](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/requiring-two-factor-authentication-in-your-organization).
 
 - - - -
